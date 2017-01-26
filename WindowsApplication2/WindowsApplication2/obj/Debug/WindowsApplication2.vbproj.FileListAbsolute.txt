@@ -1,0 +1,10 @@
+Q:\_eDesk\Brosius\Travis White\scouting\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+Q:\_eDesk\Brosius\Travis White\scouting\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Form1.resources
+Q:\_eDesk\Brosius\Travis White\scouting\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.Resources.resources
+Q:\_eDesk\Brosius\Travis White\scouting\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+Q:\_eDesk\Brosius\Travis White\scouting\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.pdb
+Q:\_eDesk\Brosius\Travis White\scouting\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+Q:\_eDesk\Brosius\Travis White\scouting\WindowsApplication2\WindowsApplication2\obj\Debug\WindowsApplication2.xml
+Q:\_eDesk\Brosius\Travis White\scouting\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+Q:\_eDesk\Brosius\Travis White\scouting\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+Q:\_eDesk\Brosius\Travis White\scouting\WindowsApplication2\WindowsApplication2\bin\Debug\WindowsApplication2.xml
